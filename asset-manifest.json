@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/premios-omarbueno/static/css/main.fb51042a.chunk.css",
+    "main.js": "/premios-omarbueno/static/js/main.ea74e966.chunk.js",
+    "main.js.map": "/premios-omarbueno/static/js/main.ea74e966.chunk.js.map",
+    "runtime-main.js": "/premios-omarbueno/static/js/runtime-main.f4ba717b.js",
+    "runtime-main.js.map": "/premios-omarbueno/static/js/runtime-main.f4ba717b.js.map",
+    "static/css/2.64a99b10.chunk.css": "/premios-omarbueno/static/css/2.64a99b10.chunk.css",
+    "static/js/2.09d59051.chunk.js": "/premios-omarbueno/static/js/2.09d59051.chunk.js",
+    "static/js/2.09d59051.chunk.js.map": "/premios-omarbueno/static/js/2.09d59051.chunk.js.map",
+    "index.html": "/premios-omarbueno/index.html",
+    "precache-manifest.a17832e103a365fcba7956dd0f90acbf.js": "/premios-omarbueno/precache-manifest.a17832e103a365fcba7956dd0f90acbf.js",
+    "service-worker.js": "/premios-omarbueno/service-worker.js",
+    "static/css/2.64a99b10.chunk.css.map": "/premios-omarbueno/static/css/2.64a99b10.chunk.css.map",
+    "static/css/main.fb51042a.chunk.css.map": "/premios-omarbueno/static/css/main.fb51042a.chunk.css.map",
+    "static/js/2.09d59051.chunk.js.LICENSE": "/premios-omarbueno/static/js/2.09d59051.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f4ba717b.js",
+    "static/css/2.64a99b10.chunk.css",
+    "static/js/2.09d59051.chunk.js",
+    "static/css/main.fb51042a.chunk.css",
+    "static/js/main.ea74e966.chunk.js"
+  ]
+}
